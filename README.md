@@ -1,4 +1,4 @@
-# Speak to Grandma
+# Speaking to Grandma - Control Flow Lab
 
 ## Objectives
 
